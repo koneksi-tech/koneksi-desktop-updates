@@ -1,3 +1,3 @@
 # Koneksi Desktop Application Release Channel
-### Installation
+### Installers
 https://github.com/koneksi-tech/koneksi-desktop-updates/releases
